@@ -6,6 +6,7 @@ using std::cout;
 using std::endl;
 using std::stringstream;
 
+cout << "this should be fun"
 
 int main(int argc, char* argv[]){
 	stringstream data[5];
